@@ -1,5 +1,5 @@
 # trusty-release-binaries
 
-# 2020 June 5th
-# 1. Update to cover 4GB on bootstrap memory mapping
-# 2. Update to use 2MB leaf instead of 1GB leaf
+# 2020 July 15th
+## Update to Google Trusty AOSP code base at July
+## Release rpmb_dev for RPMB simulation
