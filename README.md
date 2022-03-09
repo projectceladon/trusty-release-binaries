@@ -1,5 +1,8 @@
 # trusty-release-binaries
 
+# 2022 Mar 15th
+## Enable Keymaster soft attestation fallback by default
+
 # 2020 Aug 6th
 ## Update to Google Trusty AOSP code base at API version 4
 
