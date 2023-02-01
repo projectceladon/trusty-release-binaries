@@ -11,3 +11,13 @@
 ## Update to Trusty API version 5
 ##  1. FF-A share memory feature unsupported
 ##  2. Fix for RPMB vulnerability CVE-2020-0436
+
+# 2022 Aug 24th
+## Update to support Android T dessert
+
+# 2022 Aug 29th
+## Update VIRTIO_ID_TIPC ID from 13 to 14, sync with Celadon 5.15 kernel.
+
+# 2023 Feb 1st
+## Update to static link crypto and ssl libraries for rpmb_dev, set
+## "RPMB_DEV_STATIC ?= true" in project level makefile to enable this feature.
