@@ -21,3 +21,7 @@
 # 2023 Feb 1st
 ## Update to static link crypto and ssl libraries for rpmb_dev, set
 ## "RPMB_DEV_STATIC ?= true" in project level makefile to enable this feature.
+
+# 2023 April 10th
+## Update to Google Trusty code base on April.
+## Rust and binder does not support in this release.
